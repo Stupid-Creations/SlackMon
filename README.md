@@ -1,5 +1,7 @@
 # SlackMon
+
 ## Play Pokemon, in Slack!
+
 A Slack Bot which plays pokemon. It uses pyboy to simulate pokemon, using User inputs in a channel of your choice to enter inputs, and sends a picture of the game-state in the channel!
 Also logs all inputs because why not, random numbers are cool.
 ![image](https://github.com/user-attachments/assets/6cf5404d-1a53-4404-b455-76d33a48e06a)
